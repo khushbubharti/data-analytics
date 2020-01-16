@@ -1,0 +1,76 @@
+Q.1. Describe the Business Intelligence and Data Mining Cycle.
+Ans. Business Intelligence 
+Bussiness intelligence is a broad set of information technology (IT)solutions that includes tools for gathering , analysing , and          reporting information to the users about performance of the organization and its environment. These IT soltions are among the most highly  prioritized solutions for investment.
+
+Data Mining Cycle
+Business activities are recorded on paper or using electronic media , and then these records become data.
+All this data can be analyzed and mined using special tools and techniques to generate patterns and intelligence , which reflect how the business is functioning .
+These ideas can then be fed back into the business so that it can evolve to become more effective and efficient in serving costomer needs.
+This is called Data Mining Cycle.
+ 
+( "Bussiness -> Data -> Mining -> Intelligence -> Business" )
+ 
+ 
+Q.2. Describe the data processing chain.
+Ans. Data Processing Chain
+Data is the natural resource. Data lies at the heart of bussiness in telligence.There is a sequence of steps to be followed to benifit from the data in a systematic way.
+Data can be modeled and stored in a database.
+Relevant data can be extracted from the oprational data stores according to certain reporting and analysing purposes, and stored in a data werehouse.
+The data from the werehouse can be combined with other sources of data, and mined using data mining techniques to generate new insuights.
+The insights needs to be visualized and communicated to the right audience in real time for competitive advantage. 
+
+("Data -> Data Base -> Data Werehouse -> Data Mining -> Data Visualization ")
+
+
+Q.3. What are the similarities between Diamond mining and Data mining ?
+Ans. Diamond mining is the act of digging into large amount of unrefined ore to discover precious gems or nuggets. Similarly data mining is the act of digging into large amount of raw data to discover unique nontrivial useful patterns.
+A skilled diamond miner knows a diamond looks like. Similarly, a skilled data miner should know  what kind of pattern to look for.
+The patterns are essentially about what hangs together and what is separate.
+Therefore , knowing the business domain well is very important. It takes knowledge and skill to discover the patterns. It is like finding a needle in a haystack.
+
+Q.4. What are the different data mining techniques? Which of these would be relevent in your current work?
+Ans. Different Data Muining Techniques are :-
+    (A) Decision Trees:
+    They help classify population into classes. It is said that 70% of all data mining work is about classification solutions, and that 70% of all classification work uses decsion trees.
+Thus, decision trees are the most popular and important data mining technique.
+
+    (B) Regrassion:
+    This is a well understood technique from the field of statistics. The goal is to find a best fitting curve through many data points. The best fitting curve is that which minimize the distance between the actual data points and the values predicted by the curve. Regrassion models can be projected into future prediction and forecasting purposes.
+    
+    (C) Artificial Neural Network:
+    Originating in the field of artificial intelligence and machine learning ,ANNs are multi-layer, non-linear information processing models that learn from past data and predict future values.
+These models predict well, leading to their popularity. The model's parameters may not be very intuitive. Thus, neural networks are opaque like a black-box. These systems also require a large amount of past data to effectively train the system.
+
+    (D) Association Rule Mining:
+    Association rule mining is also called as Market Basket Analysis. When used in retail industry, these techniques look for association between data values. An analysis of items frequentaly found together in a market basket can help cross-sell products, and also create product bundles.
+    (E) Data Visualization:
+    As data and insights grow in number, a new requirement is the ability of the executive and decision makers to absorb this information in real time. There is a limit to human comprehension and visualization capacity.
+     
+Regration is relevant techniques is my current work.
+
+
+Q.5. What is the dashbord? How does it help?
+Ans. A dashboard is a type of graphical user interface which often provides at-a-glance views of key performance indicators (KPIs) relevant to a particular objective or business process. In other usage, "dashboard" is another name for "progress report" or "report."
+
+The "dashboard" is often displayed on a web page which is linked to a database that allows the report to be constantly updated. For example, a manufacturing dashboard may show numbers related to productivity such as number of parts manufactured, or number of failed quality inspections per hour. Similarly, a human resources dashboard may show numbers related to staff recruitment, retention and composition, for example number of open positions, or average days or cost per recruitment.
+
+The term dashboard originates from the automobile dashboard where drivers monitor the major functions at a glance via the instrument cluster.
+
+Visual presentation of performance measures
+Ability to identify and correct negative trends
+Measure efficiencies/inefficiencies
+Ability to generate detailed reports showing new trends
+Ability to make more informed decisions based on collected business intelligence
+Align strategies and organizational goals
+Saves time compared to running multiple reports
+Gain total visibility of all systems instantly
+Quick identification of data outliers and correlations
+
+
+# A pattern helps to grasp something abstract.
+# There is a sequence of steps to be followed to benifit from data in a systematic way.
+# The names and addresses of customers and employees is an example of ordinal data.
+# Cluster analysis is the data minoing technique for dividing and conquering large datasets.
+# A good data visualization should present the conclusion and just report the data.
+# Social media interaction are a form of big data.
+# Data Science is a growing and multidisciplinary field.
