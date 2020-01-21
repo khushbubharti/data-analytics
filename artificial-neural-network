@@ -1,0 +1,30 @@
+Q.1. What is neural network? How does it work?
+Ans. A neural networkk is a multilayered model.There is atleast one input neuron, one output neuron, and atleast one processing neuron.
+Neural networks are used most often when the objective function is complex, and where there exists plenty of data and the model is expected to emprove over a period of time.
+
+They are used in stick price prediction where the rules of the game are extremely complicated, and a lot of data needs to be processed very quickly.
+They are used for character recognition, as in recognizing hand written text, or damaged, or mangled text. 
+They are used in recognizing finger prints.
+These are complicated patterns aand are unique for each person.Layers of neurons can prograssively clarify the pattern leading to a remarkably accurate result.
+Thay are also used in traditional classification problems, like approving a financial loan application.
+
+
+Q.2. Compare a neural network with a decision tree.
+Ans. Two popular data modeling techniques are neural networks and decision trees .
+These two data modeling techniques are very different from each other. The neural network is an assembly of nodes, looks somewhat like the human brain. While the decision tree is an easy to follow top down approach of looking at the data.
+
+Decision Trees
+Decision trees have an easy to follow natural flow.
+They are also easy to program for computer systems with IF, THEN, ELSE statements.
+We can see that the top node in the tree is the most influential piece of data that affects the response variable in the model. Because these trees are so easy to understand.
+They are very useful as modeling techniques and provide visual representations of the data.
+
+Neural Networks
+The neural network is not so easy to understand from the visual representation. 
+It is very difficult to create computer systems from them, and almost impossible to create an explanation from the model.
+Neural networks can handle binary data better than decision trees but cannot handle categorical values.
+
+
+Q.3. What makes a neural network versatile enopugh for supervised as well as nonsuperwised learning tasks?
+Ans. Artificial neural networks are complex systems that mirror the functioning of the human brain.
+They are versatile enough for supervised as well as nonsupervised learning tasks with high accuracy. However they are like black boxes and they provide little guidance on the intuitive logic behind their pridictions.
